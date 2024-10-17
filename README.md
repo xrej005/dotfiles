@@ -37,3 +37,6 @@ Text Editos: [Neovim](https://github.com/neovim/neovim)
 
   + [lazy.nvim](https://github.com/folke/lazy.nvim)
 
+  + [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+
+Image Viewer: [imv](https://git.sr.ht/~exec64/imv)
