@@ -31,7 +31,7 @@ Shell Framework: [Starship](https://github.com/starship/starship)
 
 Media Player: [mpv](https://github.com/mpv-player/mpv)
 
-Text Editos: [Neovim](https://github.com/neovim/neovim)
+Text Editor: [Neovim](https://github.com/neovim/neovim)
 
   + [Lua](https://github.com/lua/lua)
 
