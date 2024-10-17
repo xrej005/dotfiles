@@ -32,6 +32,6 @@ Media Player: [mpv](https://github.com/mpv-player/mpv)
 Text Editos: [Neovim](https://github.com/neovim/neovim)
 
   + [Lua](https://github.com/lua/lua)
-  + 
+
   + [lazy.nvim](https://github.com/folke/lazy.nvim)
 
