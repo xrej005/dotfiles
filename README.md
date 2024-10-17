@@ -3,6 +3,8 @@
 
 <details>
   <summary>Themes Click to expand</summary>
+
+  
 Theme: [Catppuccin Mocha Blue](https://github.com/catppuccin/catppuccin)
 
 Window Decoration: [Scratchy](https://store.kde.org/p/1898344/)
@@ -15,6 +17,8 @@ Wallpaper: [Village-Light](https://github.com/JaKooLit/Wallpaper-Bank/tree/main)
 
 <details>
   <summary>Apps Click to expand</summary>
+
+  
 Terminal: [Kitty](https://github.com/kovidgoyal/kitty)
 
 Application Launcher: [Tofi](https://github.com/philj56/tofi)
