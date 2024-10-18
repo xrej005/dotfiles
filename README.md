@@ -31,3 +31,19 @@ Feel free to copy any of the config files find here.
 - **Clipboard**: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - **System Information**: [Neofetch](https://github.com/dylanaraps/neofetch)
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
+
+<details>
+
+### Appearance
+<details>
+  <summary>Click to expand</summary></summary>
+  
+- **Colors**: [Catppuccin Mocha-Blue](https://github.com/catppuccin/catppuccin)
+- **Widget Style**: Breeze
+- **Plasma Theme**: Breeze
+- **Windows Decorations**: [Scratchy](https://store.kde.org/p/1898344/)
+- **Browser**: [Papirus-Light](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [(with Catppuccin blue folders)](https://github.com/catppuccin/papirus-folders)
+- **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
+- **Video Player**: [mpv](https://mpv.io/)
+
+<details>
