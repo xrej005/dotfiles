@@ -21,9 +21,13 @@ Feel free to copy any of the config files find here.
 - **Video Player**: [mpv](https://mpv.io/)
 - **Shell Framework**: [Starship](https://starship.rs/) [(with this config)](https://gist.github.com/8KCoffeeWizard/668f33164c981c5cc39978d6a8e91308)
 - **Text Editor**: [Neovim](https://github.com/neovim/neovim)
+
     **with**:
-      - [Lua](https://github.com/lua/lua)
-      - [lazy.nvim](https://github.com/folke/lazy.nvim)
+
+  - [Lua](https://github.com/lua/lua)
+ 
+  - [lazy.nvim](https://github.com/folke/lazy.nvim)
+  
 - **Clipboard**: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 - **System Information**: [Neofetch](https://github.com/dylanaraps/neofetch)
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
