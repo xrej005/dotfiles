@@ -1,7 +1,7 @@
 # dotfiles
 ## KDE Archppuccino
 
-![Header Image](https://your-image-link-here.jpg)
+![Wallpaper Image](https://github.com/xrej005/dotfiles/blob/main/.config/Village-Light.png)
 
 This is where I keep all of my dotfiles.
 
