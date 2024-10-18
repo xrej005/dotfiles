@@ -46,6 +46,8 @@ Feel free to copy any of the config files find here.
 
 </details>
 
+
+
 ![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
 
 ### 🖼️ Appearance
