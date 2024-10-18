@@ -61,3 +61,5 @@ Feel free to copy any of the config files find here.
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
 </details>
+
+https://github.com/Fausto-Korpsvart/Tokyonight-GTK-Theme/blob/master/icons/Tokyonight-Dark/apps/16/archlinux.svg
