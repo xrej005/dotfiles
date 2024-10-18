@@ -32,12 +32,12 @@ Feel free to copy any of the config files find here.
 - **System Information**: [Neofetch](https://github.com/dylanaraps/neofetch)
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
 
-<details>
+</details>
 
 ### Appearance
 <details>
   <summary>Click to expand</summary></summary>
-  
+
 - **Colors**: [Catppuccin Mocha-Blue](https://github.com/catppuccin/catppuccin)
 - **Widget Style**: Breeze
 - **Plasma Theme**: Breeze
