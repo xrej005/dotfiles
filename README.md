@@ -7,6 +7,8 @@ This is where I keep all of my dotfiles.
 
 Feel free to copy any of the config files find here.
 
+![Software Image](https://github.com/xrej005/dotfiles/blob/main/preview/terminal.png)
+
 ### 🖥️ Software I use
 <details>
   <summary>Click to expand</summary></summary>
@@ -43,6 +45,8 @@ Feel free to copy any of the config files find here.
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
 
 </details>
+
+![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
 
 ### 🖼️ Appearance
 <details>
