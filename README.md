@@ -40,7 +40,8 @@ Feel free to copy any of the config files find here.
 
 - **System Information**: [Neofetch](https://github.com/dylanaraps/neofetch)
 
-- **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
+- **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/
+
 </details>
 
 ### Appearance
@@ -58,4 +59,5 @@ Feel free to copy any of the config files find here.
 - **Browser**: [Papirus-Light](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [(with Catppuccin blue folders)](https://github.com/catppuccin/papirus-folders)
 
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
-<details>
+
+</details>
