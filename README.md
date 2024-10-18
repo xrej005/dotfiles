@@ -7,7 +7,7 @@ This is where I keep all of my dotfiles.
 
 Feel free to copy any of the config files find here.
 
-### Software I use
+### 🖥️ Software I use
 <details>
   <summary>Click to expand</summary></summary>
 
@@ -44,7 +44,7 @@ Feel free to copy any of the config files find here.
 
 </details>
 
-### Appearance
+### 🖼️ Appearance
 <details>
   <summary>Click to expand</summary></summary>
 
