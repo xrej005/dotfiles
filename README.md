@@ -41,7 +41,6 @@ Feel free to copy any of the config files find here.
 - **System Information**: [Neofetch](https://github.com/dylanaraps/neofetch)
 
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
-
 </details>
 
 ### Appearance
@@ -61,5 +60,4 @@ Feel free to copy any of the config files find here.
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
 - **Video Player**: [mpv](https://mpv.io/)
-
 <details>
