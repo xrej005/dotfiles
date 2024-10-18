@@ -15,4 +15,4 @@ Feel free to copy any of the config files find here.
 - **Desktop Environment**: [KDE Plasma](https://kde.org/plasma-desktop/)
 - **Terminal**: [Kitty](https://github.com/kovidgoyal/kitty)
 - **Launcher**: [Tofi](https://github.com/philj56/tofi)
-- **Browser**: [Firefox](https://www.mozilla.org/en-US/firefox/)[(with Firefox Color)](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
+- **Browser**: [Firefox](https://www.mozilla.org/en-US/firefox/) [(with Firefox Color)](https://addons.mozilla.org/en-GB/firefox/addon/firefox-color/)
