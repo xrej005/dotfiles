@@ -7,7 +7,7 @@ This is where I keep all of my dotfiles.
 
 Feel free to copy any of the config files find here.
 
-### Software
+### Software I use
 <details>
   <summary>Click to expand</summary></summary>
 
