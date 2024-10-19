@@ -60,7 +60,7 @@ Feel free to copy any of the config files find here.
 
 - **Windows Decorations**: [Scratchy](https://store.kde.org/p/1898344/)
 
-- **Browser**: [Papirus-Light](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [(with Catppuccin blue folders)](https://github.com/catppuccin/papirus-folders)
+- **Icons**: [Papirus-Light](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) [(with Catppuccin blue folders)](https://github.com/catppuccin/papirus-folders)
 
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
