@@ -33,9 +33,9 @@ Feel free to copy any of the config files find here.
 
     **with**:
 
-  - [Lua](https://github.com/lua/lua)
+    - [Lua](https://github.com/lua/lua)
  
-  - [lazy.nvim](https://github.com/folke/lazy.nvim)
+    - [lazy.nvim](https://github.com/folke/lazy.nvim)
   
 
 - **Clipboard**: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
