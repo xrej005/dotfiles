@@ -1,7 +1,7 @@
 # dotfiles
 ## KDE Archppuccino
 
-![Wallpaper Image](https://github.com/xrej005/dotfiles/blob/main/.config/Village-Light.png)
+![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
 
 This is where I keep all of my dotfiles.
 
@@ -57,6 +57,6 @@ Feel free to copy any of the config files find here.
 
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
-![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
+![Wallpaper Image](https://github.com/xrej005/dotfiles/blob/main/.config/Village-Light.png)
 
 </details>
