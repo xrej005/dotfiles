@@ -31,7 +31,7 @@ Feel free to copy any of the config files find here.
 
 - **Text Editor**: [Neovim](https://github.com/neovim/neovim)
 
-    **with**: [Lua](https://github.com/lua/lua) & [lazy.nvim](https://github.com/folke/lazy.nvim)
+    - **with**: [Lua](https://github.com/lua/lua) & [lazy.nvim](https://github.com/folke/lazy.nvim)
   
 - **Clipboard**: [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 
