@@ -7,8 +7,6 @@ This is where I keep all of my dotfiles.
 
 Feel free to copy any of the config files find here.
 
-![Software Image](https://github.com/xrej005/dotfiles/blob/main/preview/terminal.png)
-
 ### 🖥️ Software I use
 <details>
   <summary>Click to expand</summary></summary>
@@ -41,7 +39,7 @@ Feel free to copy any of the config files find here.
 
 </details>
 
-![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
+![Software Image](https://github.com/xrej005/dotfiles/blob/main/preview/terminal.png)
 
 ### 🖼️ Appearance
 <details>
@@ -60,3 +58,5 @@ Feel free to copy any of the config files find here.
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
 </details>
+
+![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
