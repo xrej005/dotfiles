@@ -37,9 +37,9 @@ Feel free to copy any of the config files find here.
 
 - **Resource Monitor**: [Btop++](https://github.com/arihttps://archlinux.org/packages/extra/x86_64/btop/)
 
-</details>
-
 ![Software Image](https://github.com/xrej005/dotfiles/blob/main/preview/terminal.png)
+
+</details>
 
 ### 🖼️ Appearance
 <details>
@@ -57,6 +57,6 @@ Feel free to copy any of the config files find here.
 
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
-</details>
-
 ![Appearance Image](https://github.com/xrej005/dotfiles/blob/main/preview/homescreen.png)
+
+</details>
