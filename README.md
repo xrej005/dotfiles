@@ -57,8 +57,6 @@ Feel free to copy any of the config files find here.
 
 - **Cursors**: [WhiteSur](https://store.kde.org/p/1411743/)
 
-- **Wallpaper**:
-
-[![Wallpaper Image](https://github.com/xrej005/dotfiles/blob/main/.config/Village-Light.png)](https://github.com/JaKooLit/Wallpaper-Bank.git)
+- **Wallpaper**: [![Wallpaper Image](https://github.com/xrej005/dotfiles/blob/main/.config/Village-Light.png)](https://github.com/JaKooLit/Wallpaper-Bank.git)
 
 </details>
