@@ -1,7 +1,7 @@
-# Starship
 eval "$(starship init bash)"
 
-# If not running interactively, don't do anything
+bind '"\t": menu-complete'
+
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
