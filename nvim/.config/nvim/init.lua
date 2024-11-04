@@ -9,6 +9,8 @@ if not vim.loop.fs_stat(lazypath) then
     lazypath,
   })
 end
+
+vim.opt.number = true
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins")
