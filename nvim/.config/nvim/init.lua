@@ -11,6 +11,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 
 vim.opt.number = true
+vim.opt.swapfile = false
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins")
