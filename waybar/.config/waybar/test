@@ -14,8 +14,8 @@
   "format": "{icon}   {capacity}%",
   "format-charging": "  {capacity}%",
   "format-plugged": "   {capacity}%",
-  "format-alt": "{icon}  {capacity}%",
-  "format-icons": ["", "", "", "", "", "", "", "", "", "", "", ""]},
+  "format-alt": "{icon} {capacity}%",
+  "format-icons": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]},
 
   "clock": {
   "format": "    {:%H:%M}",
@@ -23,24 +23,24 @@
 
   "network": {
   "format-wifi": "    {signalStrength}%",
-  "format-ethernet": "󰈀",
+  "format-ethernet": "󰈀    {signalStrength}%",
   "format-linked": "{ifname} (No IP) ",
-  "format-disconnected": "   {signalStrength}%",
+  "format-disconnected": "    {signalStrength}%",
   "tooltip-format-wifi": "Network name: {essid}"},
 
   "pulseaudio": {
   "format": "{icon}   {volume}%",
   "format-muted": "",
-  "format-icons": { "default": ["", "", ""] },
+  "format-icons": { "default": ["", " ", " "] },
   "on-click": "pavucontrol"},
 
   "custom/menu": {
-  "format": " ",
+  "format": "  ",
   "on-click": "exec wofi --show drun",
   "tooltip": false},
 
   "custom/power": {
-  "format":"⏻",
+  "format":" ⏻ ",
   "on-click": "exec ~/dotfiles/scripts/power-menu.sh",
   "tooltip": false,}
 }
