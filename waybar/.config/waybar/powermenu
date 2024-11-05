@@ -1,10 +1,10 @@
-CHOSEN=$(printf "Lock\nSuspend\nReboot\nShutdown\nLog Out" | wofi --dmenu --config ~/dotfiles/waybar/.config/waybar/powermenu)
+CHOSEN=$(printf "Suspend\nReboot\nShutdown\nLock\nLog Out" | wofi --dmenu --config ~/dotfiles/waybar/.config/waybar/powermenu-config)
 
 case "$CHOSEN" in
-    "Lock") lockscreen ;;
     "Suspend") systemctl suspend-then-hibernate ;;
     "Reboot") reboot ;;
     "Shutdown") poweroff ;;
+    "Lock") lockscreen ;;
     "Log Out") hyprctl dispatch exit ;;
     *) exit 1 ;;
 esac
