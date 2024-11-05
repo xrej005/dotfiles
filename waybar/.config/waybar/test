@@ -18,17 +18,17 @@
     },
 
     "network": {
-    "format-wifi": " {signalStrength}%",
+    "format-wifi": "   {signalStrength}%",
     "format-ethernet": "󰈀",
     "format-linked": "{ifname} (No IP) ",
-    "format-disconnected": " {signalStrength}%",
+    "format-disconnected": "   {signalStrength}%",
     "tooltip-format-wifi": "Network name: {essid}"
     },
 
   "pulseaudio": {
-      "format": "{icon}  {volume}%",
+      "format": "{icon}   {volume}%",
       "format-muted": "",
-      "format-icons": { "default": ["","",""] },
+      "format-icons": { "default": ["", "", ""] },
       "on-click": "pavucontrol"
     },
 
@@ -41,11 +41,11 @@
     "format-charging": "",
     "format-plugged": "",
     "format-alt": "{icon}",
-    "format-icons": ["","","","","","","","","","","",""]
+    "format-icons": ["", "", "", "", "", "", "", "", "", "", "", ""]
     },
 
 "clock": {
-    "format": " {:%H:%M}",
+    "format": "    {:%H:%M}",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
     },
 }
