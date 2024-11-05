@@ -36,10 +36,11 @@
 
   "custom/files": {
   "format": " ",
-  "on-click": "exec nautilus",
+  "on-click": "exec wofi --show drun",
   "tooltip": false},
 
   "custom/power": {
   "format":"⏻",
-  "on-click": "exec ~/.config/waybar/scripts/power-menu.sh",
-  "tooltip": false,},
+  "on-click": "exec ~/dotfiles/scripts/power-menu.sh",
+  "tooltip": false,}
+}
