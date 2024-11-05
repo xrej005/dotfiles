@@ -66,6 +66,8 @@ button:hover {
 #tray,
 #network,
 #mode,
+#custom-power,
+#custom-menu,
 #scratchpad {
   margin-top: 2px;
   margin-bottom: 2px;
@@ -75,9 +77,19 @@ button:hover {
   padding-right: 4px;
 }
 
+#custom-power {
+  color: @mauve;
+  border-bottom: 2px solid @mauve;
+}
+
+#custom-menu {
+  color: @mauve;
+  border-bottom: 2px solid @mauve;
+}
+
 #clock {
-    color: @maroon;
-    border-bottom: 2px solid @maroon;
+    color: @mauve;
+    border-bottom: 2px solid @mauve;
 }
 
 #clock.date {
@@ -86,41 +98,39 @@ button:hover {
 }
 
 #pulseaudio {
-    color: @blue;
-    border-bottom: 2px solid @blue;
+    color: @mauve;
+    border-bottom: 2px solid @mauve;
 }
 
 #network {
-    color: @yellow;
-    border-bottom: 2px solid @yellow;
+    color: @mauve;
+    border-bottom: 2px solid @mauve;
 }
 
 #idle_inhibitor {
     margin-right: 12px;
-    color: #7cb342;
+    color: @mauve;
 }
 
 #idle_inhibitor.activated {
-    color: @red;
+    color: @mauve;
 }
 
 #battery {
-    color: @green;
-    border-bottom: 2px solid @green;
+    color: @mauve;
+    border-bottom: 2px solid @mauve;
 }
 
-/* If workspaces is the leftmost module, omit left margin */
 .modules-left>widget:first-child>#workspaces {
     margin-left: 0;
 }
 
-/* If workspaces is the rightmost module, omit right margin */
 .modules-right>widget:last-child>#workspaces {
     margin-right: 0;
 }
 
 #custom-vpn {
-    color: @lavender;
+    color: @mauve;
     border-radius: 15px;
     padding-left: 6px;
     padding-right: 6px;
