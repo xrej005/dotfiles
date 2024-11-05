@@ -1,0 +1,51 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 30,
+    "spacing": 4,
+    "modules-left": ["custom/power","custom/menu"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": [ "network","pulseaudio","battery","clock"],
+
+    "custom/power": {
+        "format": "",
+		"on-click": "sh ~/dotfiles/scripts/power.sh"
+    },
+
+    "custom/menu": {
+    "format": "",
+    "on-click": "sh ~/dotfiles/scripts/menu.sh"
+    },
+
+    "network": {
+    "format-wifi": " {signalStrength}%",
+    "format-ethernet": "󰈀",
+    "format-linked": "{ifname} (No IP) ",
+    "format-disconnected": " {signalStrength}%",
+    "tooltip-format-wifi": "Network name: {essid}"
+    },
+
+  "pulseaudio": {
+      "format": "{icon}  {volume}%",
+      "format-muted": "",
+      "format-icons": { "default": ["","",""] },
+      "on-click": "pavucontrol"
+    },
+
+  "battery": {
+    "states": {
+        "warning": 30,
+        "critical": 15
+    },
+    "format": "{icon}",
+    "format-charging": "",
+    "format-plugged": "",
+    "format-alt": "{icon}",
+    "format-icons": ["","","","","","","","","","","",""]
+    },
+
+"clock": {
+    "format": " {:%H:%M}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    },
+}
