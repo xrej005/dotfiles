@@ -36,6 +36,6 @@
 
   "custom/power": {
   "format":" ",
-  "on-click": "exec ~/dotfiles/scripts/power-menu.sh",
+  "on-click": "exec ~/dotfiles/waybar/.config/waybar/powermenu",
   "tooltip": false,}
 }
