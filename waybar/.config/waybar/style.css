@@ -77,7 +77,7 @@ button:hover {
 }
 
 #custom-power {
-  color: @mauve;
+  color: @red;
   border-bottom: 2px solid @red;
 }
 
