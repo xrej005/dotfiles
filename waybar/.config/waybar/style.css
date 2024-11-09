@@ -78,7 +78,7 @@ button:hover {
 
 #custom-power {
   color: @mauve;
-  border-bottom: 2px solid @mauve;
+  border-bottom: 2px solid @red;
 }
 
 #clock {
