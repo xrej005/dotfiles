@@ -72,26 +72,47 @@ button:hover {
   padding-right: 4px;
 }
 
-#clock {color: @maroon;}
+#clock {
+    color: @maroon;
+    border-bottom: 2px solid @maroon;
+}
 
-#clock.date {color: @mauve;}
+#clock.date {
+    color: @mauve;
+    border-bottom: 2px solid @mauve;
+}
 
-#pulseaudio {color: @blue;}
+#pulseaudio {
+    color: @blue;
+    border-bottom: 2px solid @blue;
+}
 
-#network {color: @yellow;}
+#network {
+    color: @yellow;
+    border-bottom: 2px solid @yellow;
+}
 
 #idle_inhibitor {
     margin-right: 12px;
     color: #7cb342;
 }
 
-#idle_inhibitor.activated {color: @red;}
+#idle_inhibitor.activated {
+    color: @red;
+}
 
-#battery {color: @green;}
+#battery {
+    color: @green;
+    border-bottom: 2px solid @green;
+}
 
-.modules-left>widget:first-child>#workspaces {margin-left: 0;}
+.modules-left>widget:first-child>#workspaces {
+    margin-left: 0;
+}
 
-.modules-right>widget:last-child>#workspaces {margin-right: 0;}
+.modules-right>widget:last-child>#workspaces {
+    margin-right: 0;
+}
 
 #custom-vpn {
     color: @lavender;
