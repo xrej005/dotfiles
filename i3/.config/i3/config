@@ -16,7 +16,7 @@ exec --no-startup-id feh --bg-scale ~/.config/backgrounds/wallpaper.jpg
 # LOOK AND FEEL
 gaps inner 8
 gaps outer 8
-for_window [class="^.*"] border pixel 1
+for_window [class="^.*"] border pixel 2
 
 
 # KEYBINDINGS
