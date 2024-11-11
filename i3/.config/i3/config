@@ -5,12 +5,17 @@
 font pango:JetBrainsMonoNerdFont 12
 
 
+# AUTOSTART
 exec --no-startup-id dex --autostart --environment i3
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 exec --no-startup-id picom
 exec --no-startup-id feh --bg-scale ~/.config/backgrounds/wallpaper.jpg
 
+
+# LOOK AND FEEL
+gaps inner 4
+gaps outer 8
 
 # KEYBINDINGS
 set $mod Mod4
