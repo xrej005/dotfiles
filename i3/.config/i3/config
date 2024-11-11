@@ -76,4 +76,4 @@ set $ws9 "9"
 set $ws10 "10"
 
 # Addons
-bindsym $mod+Shift+c reload
+bindsym $mod+Shift+r reload
