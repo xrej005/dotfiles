@@ -19,7 +19,7 @@ bindsym $mod+c kill
 bindsym $mod+m exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 bindsym $mod+e exec nautilus
 bindsym $mod+v floating toggle
-bindsym $mod+r exec wofi
+bindsym $mod+r exec wofi --show drun
 bindsym $mod+j layout toggle split
 
 # Move focus
