@@ -9,4 +9,4 @@ font-family = JetBrainsMonoNerdFont
 font-size = 10
 
 # Tweaks
-gtk-titlebar = true
+gtk-titlebar = false
